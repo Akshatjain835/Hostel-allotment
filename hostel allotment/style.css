@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(171, 248, 171);
+   
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    margin: 250px 7px 250px 7px;
+    flex-direction: column;
+}
+
+#uploadForm{
+    border: 2px solid black;
+    border-radius: 5px;
+    justify-content: space-between;
+    text-align: center;
+    margin: 10px;
+    margin-left: 500px;
+    padding-top: 25px;
+    width: 500px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+
+    
+}
+
+
+h1{
+    font-size: 50px;
+}
+input{
+    margin-left: 132px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    font-size: 25px;
+}
+
+
+button{
+    width: 91px;
+    padding: 5px;
+    margin: 10px;
+    margin-left: 205px;
+   
+}
